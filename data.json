@@ -1,0 +1,167 @@
+{
+    "MSH": {
+        "MSH.0": "MSH",
+        "MSH.1": "^~\\&",
+        "MSH.2": "ADM",
+        "MSH.3": "SHM",
+        "MSH.4": "ALL",
+        "MSH.5": "ALL",
+        "MSH.6": "20090101010000",
+        "MSH.7": {
+            "MSH.7.0": "ORU",
+            "MSH.7.1": "R01"
+        },
+        "MSH.8": "IHS-20090101010000.00830",
+        "MSH.9": "P",
+        "MSH.10": "2.1"
+    },
+    "PID": {
+        "PID.0": "PID",
+        "PID.1": "1",
+        "PID.2": "9081717170722.97472",
+        "PID.3": {
+            "PID.3.0": "RUBIE",
+            "PID.3.1": "ALBERT",
+            "PID.3.2": "ALLEN",
+            "PID.3.3": "AS"
+        },
+        "PID.4": "19930812",
+        "PID.5": "M",
+        "PID.6": {
+            "PID.6.0": "3250 DEL PASO BLVD",
+            "PID.6.1": "BUTTE",
+            "PID.6.2": "CHICO",
+            "PID.6.3": "CA",
+            "PID.6.4": "95973",
+            "PID.6.5": "USA"
+        },
+        "PID.7": "393-41-9499",
+        "PID.8": "393-41-9499"
+    },
+    "PV1": {
+        "PV1.0": "PV1",
+        "PV1.1": "1",
+        "PV1.2": "E",
+        "PV1.3": {
+            "PV1.3.0": "P194",
+            "PV1.3.1": "R10",
+            "PV1.3.2": "B3"
+        },
+        "PV1.4": "N",
+        "PV1.5": {
+            "PV1.5.0": "441-53-8619",
+            "PV1.5.1": "BEZA",
+            "PV1.5.2": "ROSS",
+            "PV1.5.3": "ROOSEVELT",
+            "PV1.5.4": "MD",
+            "PV1.5.5": "DR"
+        },
+        "PV1.6": {
+            "PV1.6.0": "360-77-9680",
+            "PV1.6.1": "SERVI",
+            "PV1.6.2": "EDMUNDO",
+            "PV1.6.3": "OTTO",
+            "PV1.6.4": "MD",
+            "PV1.6.5": "DR"
+        },
+        "PV1.7": "5",
+        "PV1.8": "SDC",
+        "PV1.9": "20090101065500"
+    },
+    "NK1": {
+        "NK1.0": "NK1",
+        "NK1.1": "1",
+        "NK1.2": {
+            "NK1.2.0": "RUBIE",
+            "NK1.2.1": "HARRY",
+            "NK1.2.2": "ROBIN",
+            "NK1.2.3": "MT"
+        },
+        "NK1.3": "FA"
+    },
+    "IN1": {
+        "IN1.0": "IN1",
+        "IN1.1": "1",
+        "IN1.2": "UNIT HLTH",
+        "IN1.3": {
+            "IN1.3.0": "RUBIE",
+            "IN1.3.1": "ALBERT",
+            "IN1.3.2": "ALLEN",
+            "IN1.3.3": "AS"
+        },
+        "IN1.4": "SELF"
+    },
+    "ORC": {
+        "ORC.0": "ORC",
+        "ORC.1": "RE",
+        "ORC.2": "90101080000.830",
+        "ORC.3": "CM",
+        "ORC.4": "20090101080000",
+        "ORC.5": {
+            "ORC.5.0": "865-34-3627",
+            "ORC.5.1": "MANTHE",
+            "ORC.5.2": "JUSTIN",
+            "ORC.5.3": "REYNALDO",
+            "ORC.5.4": "MD",
+            "ORC.5.5": "DR"
+        },
+        "ORC.6": {
+            "ORC.6.0": "452-74-4052",
+            "ORC.6.1": "ALTHEIMER",
+            "ORC.6.2": "THEODORE",
+            "ORC.6.3": "JAMAL",
+            "ORC.6.4": "MD",
+            "ORC.6.5": "DR"
+        }
+    },
+    "OBR": {
+        "OBR.0": "OBR",
+        "OBR.1": "90101080000.830",
+        "OBR.2": {
+            "OBR.2.0": "1205",
+            "OBR.2.1": "MAGNETIC IMAGE, NECK SPINE"
+        },
+        "OBR.3": {
+            "OBR.3.0": "452-74-4052",
+            "OBR.3.1": "ALTHEIMER",
+            "OBR.3.2": "THEODORE",
+            "OBR.3.3": "JAMAL",
+            "OBR.3.4": "MD",
+            "OBR.3.5": "DR"
+        },
+        "OBR.4": "(408)-536-2087",
+        "OBR.5": "A",
+        "OBR.6": {
+            "OBR.6.0": "699-27-2393",
+            "OBR.6.1": "EPOLITO",
+            "OBR.6.2": "HORACIO",
+            "OBR.6.3": "GENE",
+            "OBR.6.4": "MD",
+            "OBR.6.5": "DR"
+        },
+        "OBR.7": {
+            "OBR.7.0": "644-57-6302",
+            "OBR.7.1": "VINAGRE",
+            "OBR.7.2": "HARRISON",
+            "OBR.7.3": "TRACEY",
+            "OBR.7.4": "MD",
+            "OBR.7.5": "DR"
+        },
+        "OBR.8": {
+            "OBR.8.0": "609-14-8343",
+            "OBR.8.1": "AHALT",
+            "OBR.8.2": "CHONG",
+            "OBR.8.3": "LYLE",
+            "OBR.8.4": "MD",
+            "OBR.8.5": "DR"
+        },
+        "OBR.9": "20090101080000"
+    },
+    "OBX": {
+        "OBX.0": "OBX",
+        "OBX.1": "5",
+        "OBX.2": "TX",
+        "OBX.3": "Principal Result Interpreter: Dr. HORACIO, EPOLITO",
+        "OBX.4": "P"
+    }
+}
