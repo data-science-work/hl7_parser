@@ -10,7 +10,7 @@ def main():
     """Rund main application."""
     # Getting user input.
     file_name = input_file_name()
-    # file_name = "sample_1.hl7"
+    
     # Opening the file for read.
     open_hl7 = open_hl7_file(file_name)
 
@@ -20,7 +20,6 @@ def main():
 
     # Creates each line of the array into its own array.
     # [["element1", "element2", "..."], ["element1", "element2", "..."], ...]
-    # line_array = delete_char(file_array)
     line_array = array_of_lines(file_array)
 
     # Cleans the 'line_array' by deleting empty sting elements
@@ -30,11 +29,8 @@ def main():
     # Creates a 'OrderedDict()' out of the matrix array.
     hl7_dictionary = create_dictionary(clean_line_array)
 
-    # pp.pprint(hl7_dictionary)
     # Writes the 'OrderedDict()' to a json file.
     to_json(hl7_dictionary)
-
-    # print_to_console(hl7_dictionary)
 
 
 def input_file_name():
