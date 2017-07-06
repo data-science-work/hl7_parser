@@ -5,8 +5,6 @@ import pprint
 import json
 from collections import OrderedDict
 
-# pp = pprint.PrettyPrinter(indent=1)
-
 
 def main():
     """Rund main application."""
